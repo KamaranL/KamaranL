@@ -1,5 +1,2 @@
-<center>
 
 [Resources](/public/)
-
-</center>
